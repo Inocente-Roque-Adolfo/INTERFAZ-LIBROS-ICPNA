@@ -1,0 +1,45 @@
+body {
+  background-color: rgb(29, 29, 29);
+}
+
+.libros_kids,.libros_children, .libros_young {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.libros_kids img,.libros_children img, .libros_young img {
+  width: 30%;
+  height: 100%;
+}
+
+
+.buttom_libros {
+  text-align: center;
+  margin: 2em auto 2em auto;
+}
+
+.buttom_libros button {
+  width: 25%;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+}
+
+#button_kids {
+  background-color: yellow;
+  font-size: 1.2em;
+}
+
+#button_children {
+  background-color: orange;
+  font-size: 1.2em;
+}
+
+#button_young {
+  background-color: red;
+  font-size: 1.2em;
+}
+
+
+  
